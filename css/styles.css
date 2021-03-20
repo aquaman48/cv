@@ -1,7 +1,8 @@
+/*body styles */
 body {
   background-color: #EAF6F;
 }
-
+/*horizontal row styling*/
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -10,9 +11,20 @@ hr {
   width: 5%;
   opacity: .5;
 }
+/*Header 1 styling*/
 h1 {
   color: #0f4c75;
 }
+/*Hearder 3 styling */
 h3 {
   color: #66BFBF;
+  text-align: center;
   }
+
+/*Style for everything in the class extras*/
+.extras {
+  text-align: center;
+}
+ .picture {
+   border-radius: 100%;
+ }
